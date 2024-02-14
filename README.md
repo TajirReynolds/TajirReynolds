@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TajirReynolds
 - 👀 I’m interested in  music
-- 🌱 I’m currently learning  swift
+- 🌱 I’m currently learning  JavaScript
 - 💞️ I’m looking to collaborate on  nothing yet 
 - 📫 How to reach me.
 
