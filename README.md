@@ -4,7 +4,7 @@ Passionate about Full-Stack development and building scalable real-world applica
 Actively seeking a full-time software Engineering or IT Role starting in 2026
 
 # Tech Stack
-**Languages:*** Python, JavaScript,C++,SQL
+**Languages:**JavaScript,C++,
 **Databases:***Learning MySQL
 *Tools & Platforms:** Github, VSCode,
 **Other:** Learning REST API's & JSON
