@@ -1,35 +1,34 @@
-Hi, I'm Tajir Reynolds 
-Senior @ Rowan University| B.A in Computing and Informatics, Certificate in Management Information Systems, along with a certificate in Entrepreneurship, Innovation, and Technology
-Passionate about Full-Stack development and building scalable real-world applications 
-Actively seeking a full-time software Engineering or IT Role starting in 2026
+Hi, There
+I'm Tajir Reynolds, a passionate, inspiring developer currently pursuing my degree(graduating in 2026).
+I enjoy building projects, learning new technologies, and experimenting with code to sharpen my skills.
 
-# Tech Stack
-**Languages:**JavaScript,C++,
-**Databases:***Learning MySQL
-*Tools & Platforms:** Github, VSCode,
-**Other:** Learning REST API's & JSON
+🔧 Technologies & Tools
 
----------
- ## Highlighted Project
- ###  [JsRecipeFinder][https://github.com/TajirReynolds/TajirReynolds_Projects/blob/main/JsRecipeFinder]
-This is a JavaScript project to find Recipes online to be used to cook a meal 
-*Tech used:  JavaScript, HTML,css
-### [ JsMatch country to Continent][https://github.com/TajirReynolds/TajirReynolds_Projects/blob/main/Match%20Country%20to%20ContinetJS]
-This was a fun project I built to help strengthen my JavaScript skills by matching countries to the continents they are associated with 
-*Tech used* is: JavaScript, HTML,CSS
-##[PythonCurrencyConvertor][https://github.com/TajirReynolds/TajirReynolds_Projects/blob/main/py-CurrencyConvertor]
-This is a python project that came to mind when thinking about a practical project that can be used in society becase every country has different currency so it's good to know how to convert it 
-Tech Used: python
+Languages: JavaScript, C++
 
-## Github Stats
-[Github Stats][https://github.com/TajirReynolds]
+IDEs & Editors: Visual Studio Code, Visual Studio
 
---
+Currently Learning: Expanding my knowledge in full-stack development & modern frameworks
 
-**Connect with me**
-[Linkedin] [www.linkedin.com/in/
-tajir-reynolds-310a56290]
-[email] [tajirreynolds@gmail.com]
+📚 About Me
+
+🎓 Computer Science/Software Engineering student (Class of 2026)
+
+💻 Interested in software development, problem-solving, and creating useful projects
+
+🌱 Always learning and improving my coding skills
+
+📈 Goals
+
+Build real-world projects to strengthen my portfolio
+
+Contribute to open-source communities
+
+Grow into a versatile developer ready for professional opportunities
+
+✨ Thanks for checking out my profile! Feel free to explore my repositories and connect with me.
+
+
 
 
 
